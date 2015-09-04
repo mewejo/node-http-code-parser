@@ -1,6 +1,8 @@
 # HTTP Code Parser
 NPM module to parse HTTP status codes into something more useable.
 
+https://www.npmjs.com/package/http-code-parser
+
 ## Install
 ```javascript
 npm install http-code-parser
