@@ -9,5 +9,5 @@ npm install http-code-parser
 ## Usage
 ```javascript
 var http_code_parser = require('http-code-parser');
-var Status = http_code_parser.parse(HTTPResponse.statusCode);
+var Status = http_code_parser.parse(201);
 ```
