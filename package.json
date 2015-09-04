@@ -1,6 +1,6 @@
 {
   "name": "http-code-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parser for HTTP status codes, turning them into something more useable.",
   "main": "index.js",
   "scripts": {
