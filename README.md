@@ -21,6 +21,7 @@ Results in:
   error: false,
   redirect: false,
   friendly: 'Created',
-  code: 201
+  code: 201,
+  type: "success"
 }
 ```
